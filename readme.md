@@ -13,3 +13,4 @@ Linux | Windows | Mac
 open source | easy to use | powerful interface
 most are free | most common | fewer viruses
 
+![this is the command in git](CSCI3251PM2.PNG)
